@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://mgonyan.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Manuel Gonzalez
+subtitle: My personal blog
+author: Manuel A. Gonzalez Yanes
 simple_search: http://google.com/search
-description:
+description: Description
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: mgonyan
 twitter_tweet_button: true
 
 # Google +1
@@ -86,15 +86,15 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user:
+delicious_user: mgonyan
 delicious_count: 3
 
 # Disqus Comments
 disqus_short_name:
-disqus_show_comment_count: false
+disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-48379330-1
 
 # Facebook Like
 facebook_like: false
