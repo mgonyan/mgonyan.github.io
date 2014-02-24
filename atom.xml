@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Manuel Gonzalez]]></title>
   <link href="http://mgonyan.github.io/atom.xml" rel="self"/>
   <link href="http://mgonyan.github.io/"/>
-  <updated>2014-02-24T16:13:07+00:00</updated>
+  <updated>2014-02-24T17:01:19+00:00</updated>
   <id>http://mgonyan.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Manuel A. Gonzalez Yanes]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
